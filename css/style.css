@@ -1,0 +1,25 @@
+.title {
+  color: red;
+}
+.name {
+  color: blue;
+}
+
+.plus {
+  color: green;
+}
+
+.sum {
+  color: purple;
+  text-align: center;
+}
+
+.multiply {
+  color: orange;
+  background-color: aqua;
+}
+
+.minus {
+  font-size: 36px;
+  color: greenyellow;
+}
